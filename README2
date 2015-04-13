@@ -1,0 +1,12 @@
+Iniciar respositorio git
+
+git init
+
+Crear archivon readme
+
+touch README
+
+agregar archivo readme
+
+git add README
+
